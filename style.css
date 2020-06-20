@@ -1,0 +1,212 @@
+
+.topline{
+	
+}
+.topline img{
+	margin-bottom: -1828px;
+	margin-top: -179px;
+	margin-left: -5px;
+
+	
+
+
+}
+.cover-area{
+	background: url(image/cover.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: -14.6px;
+	width: 100%;
+	height: 614px;
+
+}
+.cover-left{
+
+}
+.notify-logo{
+
+}
+.notify-logo img{
+	padding-top: 150px;
+}
+.cover-text{
+
+}
+.cover-text p{
+	color: #fff;
+	font-size: 27px;
+	padding-top: 50px;
+}
+.cover-icon{
+    
+}
+
+.cover-icon i{
+	color: #fff;
+	padding: 7px 20px;
+	background: #333;
+	 
+}
+.cover-icon i: hover{
+	background-color:  #33cc66;
+}
+.cover-right{
+
+}
+.hand-image{
+
+}
+.hand-image img{
+	margin-top: -350px;
+}
+.mobile-back{
+
+}
+.mobile-back img{
+	margin-top: -657px;
+	margin-left: -306px;
+}
+             /*....body top...*/
+
+.body-top{
+
+}
+.our-class{
+	padding: 100px 0px;
+	text-align: center;
+}
+.icon img{
+	margin-left: -35px;
+	margin-top: -30px;
+}
+.icon i{
+	
+	margin-left: -75px;
+	font-size: 50px;
+	color: #fff;
+
+}
+.our-class h3{
+	padding-top: 30px;
+	padding-bottom: 10px;
+	color: #333333;
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+}
+.our-class p{
+	color: #cccccc;
+	font-family: 'Helvatica';
+}
+
+/*........body middle-area...*/
+.body-middle{
+	background: #cccccc;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.our-rowclass{
+
+}
+.text-area{
+	padding-left: 20px;
+}
+.text-area h4{
+	font-family: 'Raleway', sans-serif;
+	color: #333333;
+}
+.text-area p{
+	color: #999999;
+	padding-top: 35px;
+	font-size: 15px;
+	
+}
+.text-area form{
+
+}
+.form-area{
+	padding-top: 20px;
+
+}
+.form-area input{
+	padding: 10px 15px;
+	color: #999999;
+	border: none;
+}
+.form-area label{
+
+}
+.form-area button{
+	margin-left: -10px;
+	padding: 10px 15px;
+	background-color: #33cc66;
+	color: #fff;
+	font-weight:bold;
+	border: none;
+
+}
+.video{
+
+}
+.video iframe{
+}
+
+
+   /* bosy-third area..*/
+.body-thirdarea{
+	text-align: center;
+	padding: 50px 0px;
+}
+.third-text{
+
+}
+.third-text p{
+	color: #999999;
+
+}
+.third-text h6 {
+	color: #333333;
+	font-size: 20px;
+}
+.all-images{
+	padding: 20px 0px;
+}
+.another-text{
+	text-align: center;
+}
+.another-text h4{
+	text-align: center;
+	margin-top: 35px;
+	
+	color: #000;
+}
+.another-text p{
+	padding: 10px 0px;
+	
+	font-size: 15px;
+	color: #999999;
+	font-family: 'Raleway', sans-serif;
+}
+.another-text i{
+	padding: 2px 13px;
+}
+
+/* footer section*/
+.footer-area{
+	background-color: #cccccc;
+}
+.menu-area{
+
+}
+.menu-area ul{
+	list-style: none;
+	display: flex;
+}
+.menu-area ul li{
+	margin-left: 80px;
+	padding: 50px 0px;
+}
+.menu-area ul li a{
+	text-decoration: none;
+	font-size: 16px;
+	color: #999999;
+}
